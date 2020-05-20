@@ -1,6 +1,5 @@
-var nome = 'Anderson'
-var sobrenome = 'Cezar'
+function soma(n1, n2){
+	return n1 + n2;
+}
 
-console.log(nome + ' ' + sobrenome)
-
-
+console.log(soma(10,20))
