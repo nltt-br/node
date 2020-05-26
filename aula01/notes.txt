@@ -1,0 +1,21 @@
+# install 
+
+pacman -S npm nodejs
+
+# info
+
+nodejs -> interpretador de javascript baseado em eventos 
+npm -> gerenciador de pacotes do node 	
+
+# instalação de pacotes
+
+npm install # # --save (salvar o conteudo na mesma página)
+
+
+se baixar o arquivo git de uma outra pessoa
+# npm install (no diretorio corrente da aplicação baixada para instalar as depedencias)
+
+
+# info node
+
+package.json (tem as informações sobre a aplicação e suas dependências)
